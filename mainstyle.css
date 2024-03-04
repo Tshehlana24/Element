@@ -1,0 +1,185 @@
+/* Frame 17 */
+body{
+    
+    position: relative;
+    background-repeat: no-repeat;
+background: linear-gradient(180.71deg, #252525 11.38%, #191919 31.83%, #131214 45.14%, #080808 65.08%, #000000 96.1%);
+    height: 800px;
+    background-size: cover;
+    object-fit: cover;
+}
+
+
+
+
+/* THE ELEMENT. */
+h1{
+   
+   
+    font-family: "Headland One", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-weight: 840;
+    font-size: 96px;
+    line-height: 115px;
+    text-align: center;
+    color: white;
+    
+   
+    text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.45);
+}
+
+
+/* STiMULATE YOUR MIND */
+h6{
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 38px;
+    text-align: center;
+    color: #868686;
+    margin-top: -5.5rem;
+}
+
+.main {
+    display: flex;
+    flex-direction: row;
+}
+
+
+/* logoo 1 */
+#image {
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left: 75px;
+    top: 170px;
+    background: url(logoo.png);
+    mix-blend-mode: difference;
+}
+
+
+
+
+/* Get started today and elevate your academic journey with our Online Assessment Platform. Happy studying! */
+.text {
+    position: absolute;
+    width: 800px;
+    height: 169px;
+    left: 440px;
+    top: 170px;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 50px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #7124AE; 
+}
+
+
+
+/* Rectangle 30 */
+.sign{
+    
+        position: absolute;
+        width: 250px;
+        height: 70px;
+        left: 550px;
+        top: 618px;
+        background: #1C1149;
+        box-shadow: 7px 7px 4px rgba(0, 0, 0, 0.4);
+        border-radius: 16px;
+        border-bottom-left-radius: 16px;        
+        font-family: 'Lexend';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 48px;
+        text-align: center;
+        color: #FFFFFF;
+        line-height: 60px;
+
+}
+
+
+
+/* Rectangle 31 */
+.log{
+    position: absolute;
+    width: 250px;
+    height: 70px;
+    left: 805px;
+    top: 618px;
+    background: #1C1149;
+    box-shadow: 7px 6px 4px rgba(0, 0, 0, 0.4);
+    border-radius: 16px;
+    font-family: 'Lexend';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 60px;
+    /* leading-trim and text-edge are draft CSS properties.
+    Read more: https://drafts.csswg.org/css-inline-3/#leading-trim
+    */
+    text-align: center;
+    color: #FFFFFF;
+}
+
+
+
+
+
+
+/* copyright (c) */
+
+position: absolute;
+width: 1512px;
+height: 41px;
+left: 0px;
+top: 921px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 22px;
+
+leading-trim: both;
+text-edge: cap;
+text-align: center;
+text-transform: uppercase;
+
+color: #000000;
+
+/* Frame 17 */
+
+position: relative;
+width: 1512px;
+height: 982px;
+
+background: url(956dd964025249.5ac4bf65582bb.png);
+
+/* Rectangle 31 */
+
+position: absolute;
+width: 280px;
+height: 90px;
+left: 876px;
+top: 640px;
+
+background: #1C1149;
+box-shadow: 7px 6px 4px rgba(0, 0, 0, 0.4);
+border-radius: 16px;
+/* Rectangle 31 */
+
+position: absolute;
+width: 280px;
+height: 90px;
+left: 876px;
+top: 640px;
+
+background: #1C1149;
+box-shadow: 7px 6px 4px rgba(0, 0, 0, 0.4);
+border-radius: 16px;
