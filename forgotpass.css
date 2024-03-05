@@ -1,0 +1,15 @@
+/* Rectangle 20 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 910px;
+height: 559px;
+left: 278px;
+top: 293px;
+
+background: linear-gradient(124.87deg, #FAFAFF 0%, rgba(2, 26, 153, 0.758944) 37.22%, rgba(1, 14, 48, 0.46) 83.37%);
+mix-blend-mode: lighten;
+border: 1px solid #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
+border-radius: 70px;
